@@ -28,7 +28,7 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 - **[Project 1: Foot Posture Index Analysis](https://github.com/yourusername/project1)**  
    Analyze foot posture using images and calculate FPI scores.  
 - **[Project 2: Mentor GPT - Student Mentorship App](https://github.com/arun-bravo-6-going-dark/Mentor-GPT)**  
-   Real-time statistical analysis of geospatial data.  
+   Mentor GPT is a Streamlit-based web application designed to gather detailed information about students and mentor them through their academic projects and capstones.  
 - **[Project 3: AI-Powered Code Interpreter](https://github.com/yourusername/project3)**  
    FastAPI service for running code dynamically.
 
