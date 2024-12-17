@@ -39,7 +39,6 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 - **AWS Certified Developer – Associate**
   
 ## 🏆🌟 Featured Projects
-## 🏆🌟 Featured Projects
 
 - **[Project 1: Langgraph Memory and API Tools: Inventory Management](https://github.com/arun-bravo-6-going-dark/Langgraph-Memory-and-API-Tools)**  
    FastAPI-based Product Inventory Management System with an AI Agent that interacts with the inventory API.  
