@@ -19,7 +19,7 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 ### Vector Databases  
 ![Chroma](https://img.shields.io/badge/Chroma-VectorDB-blue)  
 ![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-green)  
-![PGVector](https://img.shields.io/badge/PGVector-PostgreSQL-VectorDB-yellow)
+![PGVector](https://img.shields.io/badge/PGVector-VectorDB-yellow)
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3.10-blue)  
