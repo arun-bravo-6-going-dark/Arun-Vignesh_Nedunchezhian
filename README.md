@@ -14,12 +14,12 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 ### GenAI Frameworks  
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)  
 ![LangGraph](https://img.shields.io/badge/LangGraph-Framework-purple)  
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-green)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Framework-green)
 
 ### Vector Databases  
 ![Chroma](https://img.shields.io/badge/Chroma-VectorDB-blue)  
 ![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-green)  
-![PGVector](https://img.shields.io/badge/PGVector-PostgreSQL-yellow)
+![PGVector](https://img.shields.io/badge/PGVector-PostgreSQL-VectorDB-yellow)
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3.10-blue)  
