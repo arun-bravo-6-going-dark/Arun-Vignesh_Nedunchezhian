@@ -5,7 +5,7 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 ## 🚀 Skills & Tools
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![SQL](https://img.shields.io/badge/SQL-Data-yellow) ![R](https://img.shields.io/badge/R-Statistics-green)
+![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-Data-yellow) ![R](https://img.shields.io/badge/R-Statistics-green)
 
 **Generative AI**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-blue) ![LangChain](https://img.shields.io/badge/LangChain-Framework-purple) ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-orange)
