@@ -5,11 +5,11 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 ## 🚀 Skills & Tools
 
 ### Generative AI  
-![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) 
-![Anthropic](https://img.shields.io/badge/Anthropic-AI-orange) 
-![Gemini](https://img.shields.io/badge/Gemini-GenerativeAI-yellow)
+![OpenAI](https://img.shields.io/badge/OpenAI-blue) 
+![Anthropic](https://img.shields.io/badge/Anthropic-orange) 
+![Gemini](https://img.shields.io/badge/Gemini-yellow)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-purple) 
-![Ollama](https://img.shields.io/badge/Ollama-ModelDeployment-green)
+![Ollama](https://img.shields.io/badge/Ollama-green)
 
 ### GenAI Frameworks  
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)  
