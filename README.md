@@ -4,20 +4,36 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 
 ## 🚀 Skills & Tools
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-Data-yellow) ![R](https://img.shields.io/badge/R-Statistics-green)
+### Generative AI  
+![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) 
+![Anthropic](https://img.shields.io/badge/Anthropic-AI-orange) 
+![Gemini](https://img.shields.io/badge/Gemini-GenerativeAI-yellow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-purple) 
+![Ollama](https://img.shields.io/badge/Ollama-ModelDeployment-green)
 
-**Generative AI**  
-![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-blue) ![LangChain](https://img.shields.io/badge/LangChain-Framework-purple) ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-orange)
+### GenAI Frameworks  
+![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)  
+![LangGraph](https://img.shields.io/badge/LangGraph-Framework-purple)  
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Data%20Indexing-green)
 
-**Vector Databases**  
-![Chroma](https://img.shields.io/badge/Chroma-DB-blue) ![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-green)
+### Vector Databases  
+![Chroma](https://img.shields.io/badge/Chroma-VectorDB-blue)  
+![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-green)  
+![PGVector](https://img.shields.io/badge/PGVector-PostgreSQL-yellow)
 
-**Data Visualization**  
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-Reports-yellow)
+### Languages  
+![Python](https://img.shields.io/badge/Python-3.10-blue)  
+![SQL](https://img.shields.io/badge/SQL-DataQuery-yellow)
 
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-Cloud-red)
+### Data Visualization  
+![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-Data%20Visualization-orange)  
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue)  
+![Power BI](https://img.shields.io/badge/PowerBI-Reports-yellow)  
+![Excel](https://img.shields.io/badge/Excel-Spreadsheet-green)
+
+### Cloud  
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-Cloud-red)
+
 
 ### Certifications
 - **AWS Certified Developer – Associate**
