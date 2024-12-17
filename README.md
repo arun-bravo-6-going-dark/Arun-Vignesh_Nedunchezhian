@@ -22,7 +22,7 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 ![PGVector](https://img.shields.io/badge/PGVector-VectorDB-yellow)
 
 ### Languages  
-![Python](https://img.shields.io/badge/Python-3.10-blue)  
+![Python](https://img.shields.io/badge/Python-blue)  
 ![SQL](https://img.shields.io/badge/SQL-DataQuery-yellow)
 
 ### Data Visualization  
