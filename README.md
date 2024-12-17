@@ -23,12 +23,28 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 - **AWS Certified Developer – Associate**
   
 ## 🏆🌟 Featured Projects
+## 🏆🌟 Featured Projects
+
 - **[Project 1: Langgraph Memory and API Tools: Inventory Management](https://github.com/arun-bravo-6-going-dark/Langgraph-Memory-and-API-Tools)**  
-   FastAPI-based Product Inventory Management System with an AI Agent that interacts with the inventory API.
+   FastAPI-based Product Inventory Management System with an AI Agent that interacts with the inventory API.  
+   ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-blue) 
+   ![LangGraph](https://img.shields.io/badge/LangGraph-Framework-purple) 
+   ![Python](https://img.shields.io/badge/Python-3.10-yellow)  
+   ![Generative AI](https://img.shields.io/badge/Generative%20AI-Tools-green)
+
 - **[Project 2: Mentor GPT - Student Mentorship App](https://github.com/arun-bravo-6-going-dark/Mentor-GPT)**  
    Mentor GPT is a Streamlit-based web application designed to gather detailed information about students and mentor them through their academic projects and capstones.  
-- **[Project 3: Crop_Image_Classification](https://github.com/arun-bravo-6-going-dark/Crop_Image_Classification)**  
-   A Streamlit application that classifies crop types based on an image.
+   ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red) 
+   ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) 
+   ![Python](https://img.shields.io/badge/Python-3.10-yellow)  
+   ![Generative AI](https://img.shields.io/badge/Generative%20AI-MentorGPT-green)
+
+- **[Project 3: Crop Image Classification](https://github.com/arun-bravo-6-going-dark/Crop_Image_Classification)**  
+   A Streamlit application that classifies crop types based on an image.  
+   ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red) 
+   ![Python](https://img.shields.io/badge/Python-3.10-yellow) 
+   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-green)
+   ![Generative AI](https://img.shields.io/badge/Generative%20AI-Tools-green) 
 
 ## 📫 Let's Connect
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/arun-vignesh-n/)
