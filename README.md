@@ -44,20 +44,20 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
    FastAPI-based Product Inventory Management System with an AI Agent that interacts with the inventory API.  
    ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-blue) 
    ![LangGraph](https://img.shields.io/badge/LangGraph-Framework-purple) 
-   ![Python](https://img.shields.io/badge/Python-3.10-yellow)  
+   ![Python](https://img.shields.io/badge/Python-yellow)  
    ![Generative AI](https://img.shields.io/badge/Generative%20AI-Tools-green)
 
 - **[Project 2: Mentor GPT - Student Mentorship App](https://github.com/arun-bravo-6-going-dark/Mentor-GPT)**  
    Mentor GPT is a Streamlit-based web application designed to gather detailed information about students and mentor them through their academic projects and capstones.  
    ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red) 
    ![OpenAI](https://img.shields.io/badge/OpenAI-API-blue) 
-   ![Python](https://img.shields.io/badge/Python-3.10-yellow)  
+   ![Python](https://img.shields.io/badge/Python-yellow)  
    ![Generative AI](https://img.shields.io/badge/Generative%20AI-MentorGPT-green)
 
 - **[Project 3: Crop Image Classification](https://github.com/arun-bravo-6-going-dark/Crop_Image_Classification)**  
    A Streamlit application that classifies crop types based on an image.  
    ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red) 
-   ![Python](https://img.shields.io/badge/Python-3.10-yellow) 
+   ![Python](https://img.shields.io/badge/Python-yellow) 
    ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-green)
    ![Generative AI](https://img.shields.io/badge/Generative%20AI-Tools-green) 
 
