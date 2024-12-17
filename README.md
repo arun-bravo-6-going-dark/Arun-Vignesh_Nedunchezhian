@@ -33,7 +33,7 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
    A Streamlit application that classifies crop types based on an image.
 
 ## 📊 GitHub Stats
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-bravo-6-going-dark&show_icons=true)
 
 ## 📫 Let's Connect
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
