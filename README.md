@@ -23,7 +23,7 @@ Data Scientist with expertise in cutting-edge AI and NLP solutions, including Mu
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-blue)  
-![SQL](https://img.shields.io/badge/SQL-DataQuery-yellow)
+![SQL](https://img.shields.io/badge/SQL-yellow)
 
 ### Data Visualization  
 ![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-Data%20Visualization-orange)  
